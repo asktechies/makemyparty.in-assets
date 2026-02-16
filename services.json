@@ -13,7 +13,7 @@
     "description": "Curated snack boxes for meetings, events, and quick bites.",
     "imageId": "snack-box-service",
     "active": true,
-    "image": "https://images.unsplash.com/photo-1622240506794-55355ee69a13?q=80&w=1080&auto=format&fit=crop"
+    "image": "https://cdn.jsdelivr.net/gh/asktechies/makemyparty.in-assets/service-snacks-box-v1.jpg"
   },
   {
     "name": "Decoration",
