@@ -1,0 +1,36 @@
+{
+  "food-delivery": [
+    { "name": "Paneer Tikka", "image": "https://cdn.jsdelivr.net/gh/asktechies/makemyparty.in-assets/item-food-delivery-panner-tikka.webp", "rating": 4.5, "basePrice": 450, "unitType": "kg", "minOrderQty": 1 },
+    { "name": "Shahi Paneer", "image": "https://cdn.jsdelivr.net/gh/asktechies/makemyparty.in-assets/item-food-delivery-shahi-panner.webp", "rating": 4.8, "basePrice": 800, "unitType": "kg", "minOrderQty": 1 },
+    { "name": "Matar Paneer", "image": "https://cdn.jsdelivr.net/gh/asktechies/makemyparty.in-assets/item-food-delivery-matar-panner.webp", "rating": 4.7, "basePrice": 600, "unitType": "kg", "minOrderQty": 1 },
+    { "name": "Mix Vegetable", "image": "https://cdn.jsdelivr.net/gh/asktechies/makemyparty.in-assets/item-food-delivery-mix-vegetable.webp", "rating": 4.5, "basePrice": 400, "unitType": "kg", "minOrderQty": 1 },
+    { "name": "Dal Makhani", "image": "https://cdn.jsdelivr.net/gh/asktechies/makemyparty.in-assets/item-food-delivery-daal-makhani.webp", "rating": 4.8, "basePrice": 450, "unitType": "kg", "minOrderQty": 1 },
+    { "name": "Chicken Tikka", "image": "https://cdn.jsdelivr.net/gh/asktechies/makemyparty.in-assets/item-food-delivery-chicken-tikka.webp", "rating": 4.8, "basePrice": 700, "unitType": "kg", "minOrderQty": 1 },
+    { "name": "Butter Chicken", "image": "https://cdn.jsdelivr.net/gh/asktechies/makemyparty.in-assets/item-food-delivery-butter-chicken.webp", "rating": 4.9, "basePrice": 900, "unitType": "kg", "minOrderQty": 1 },
+    { "name": "Fish Curry", "image": "https://cdn.jsdelivr.net/gh/asktechies/makemyparty.in-assets/item-food-delivery-Fish-curry.webp", "rating": 4.6, "basePrice": 800, "unitType": "kg", "minOrderQty": 1 },
+    { "name": "Samosa", "image": "https://cdn.jsdelivr.net/gh/asktechies/makemyparty.in-assets/item-food-delivery-samosa.webp", "rating": 4.6, "basePrice": 10, "unitType": "pc", "minOrderQty": 20 },
+    { "name": "Veg Biryani", "image": "https://cdn.jsdelivr.net/gh/asktechies/makemyparty.in-assets/item-food-delivery-veg-biryani.webp", "rating": 4.7, "basePrice": 450, "unitType": "kg", "minOrderQty": 1 },
+    { "name": "Veg Chowmein", "image": "https://cdn.jsdelivr.net/gh/asktechies/makemyparty.in-assets/item-food-delivery-veg-chowmein.webp", "rating": 4.4, "basePrice": 200, "unitType": "kg", "minOrderQty": 1 },
+    { "name": "Veg Burger", "image": "https://cdn.jsdelivr.net/gh/asktechies/makemyparty.in-assets/item-food-delivery-veg-burger.webp", "rating": 4.3, "basePrice": 30, "unitType": "pc", "minOrderQty": 20 }
+  ],
+  "decoration": [
+    { "name": "Stage Backdrop", "basePrice": 15000, "unitType": "setup", "minOrderQty": 1, "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?q=80&w=1080&auto=format&fit=crop" },
+    { "name": "Floral Arrangements", "basePrice": 8000, "unitType": "setup", "minOrderQty": 1, "image": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?q=80&w=1080&auto=format&fit=crop" },
+    { "name": "Balloon Arches", "basePrice": 5000, "unitType": "arch", "minOrderQty": 1, "image": "https://images.unsplash.com/photo-1608221873153-2c7b5a864e21?q=80&w=1080&auto=format&fit=crop" },
+    { "name": "Lighting Packages", "basePrice": 12000, "unitType": "package", "minOrderQty": 1, "image": "https://images.unsplash.com/photo-1505238680356-667803448bb6?q=80&w=1080&auto=format&fit=crop" },
+    { "name": "Table Décor", "basePrice": 4000, "unitType": "setup", "minOrderQty": 1, "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=1080&auto=format&fit=crop" },
+    { "name": "Photo Booth", "basePrice": 7500, "unitType": "setup", "minOrderQty": 1, "image": "https://images.unsplash.com/photo-1531994333829-3707299c35b8?q=80&w=1080&auto=format&fit=crop" }
+  ],
+  "entertainment": [
+    { "name": "Live Band", "description": "A professional band to play various genres.", "basePrice": 25000, "unitType": "event", "minOrderQty": 1, "image": "https://images.unsplash.com/photo-1524368535928-5b5e00ddc76b?q=80&w=1080&auto=format&fit=crop" },
+    { "name": "DJ", "description": "A lively DJ to get the party started.", "basePrice": 15000, "unitType": "event", "minOrderQty": 1, "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?q=80&w=1080&auto=format&fit=crop" },
+    { "name": "Magician", "description": "Mind-blowing tricks and illusions.", "basePrice": 8000, "unitType": "hour", "minOrderQty": 1, "image": "https://images.unsplash.com/photo-1591040523124-0046b81a1a7c?q=80&w=1080&auto=format&fit=crop" },
+    { "name": "Comedian", "description": "Hilarious stand-up comedy for all ages.", "basePrice": 10000, "unitType": "hour", "minOrderQty": 1, "image": "https://images.unsplash.com/photo-1574878893397-90a6c6e94966?q=80&w=1080&auto=format&fit=crop" }
+  ],
+  "furniture-rental": [
+    { "name": "Banquet Chairs", "basePrice": 150, "unitType": "chair", "minOrderQty": 20, "image": "https://images.unsplash.com/photo-1549488344-cbb6c34cf08b?q=80&w=1080&auto=format&fit=crop" },
+    { "name": "Round Tables", "basePrice": 800, "unitType": "table", "minOrderQty": 5, "image": "https://images.unsplash.com/photo-1519690883372-6881b573a6e3?q=80&w=1080&auto=format&fit=crop" },
+    { "name": "Lounge Sofa", "basePrice": 2500, "unitType": "sofa", "minOrderQty": 1, "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?q=80&w=1080&auto=format&fit=crop" },
+    { "name": "Portable Bar Counter", "basePrice": 3000, "unitType": "unit", "minOrderQty": 1, "image": "https://images.unsplash.com/photo-1551525389-1331d2551e84?q=80&w=1080&auto=format&fit=crop" }
+  ]
+}
