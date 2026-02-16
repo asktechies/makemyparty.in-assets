@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Food Delivery",
+    "slug": "food-delivery",
+    "description": "Delicious meals for your event, delivered hot and fresh.",
+    "imageId": "food-service",
+    "active": true,
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1080&auto=format&fit=crop"
+  },
+  {
+    "name": "Snack Box Delivery",
+    "slug": "snack-box-delivery",
+    "description": "Curated snack boxes for meetings, events, and quick bites.",
+    "imageId": "snack-box-service",
+    "active": true,
+    "image": "https://images.unsplash.com/photo-1622240506794-55355ee69a13?q=80&w=1080&auto=format&fit=crop"
+  },
+  {
+    "name": "Decoration",
+    "slug": "decoration",
+    "description": "Transform your venue with stunning decoration options.",
+    "imageId": "decoration-service",
+    "active": true,
+    "image": "https://cdn.jsdelivr.net/gh/asktechies/makemyparty.in-assets/service-decoration.webp"
+  },
+  {
+    "name": "Entertainment",
+    "slug": "entertainment",
+    "description": "Keep your guests entertained with our top-notch performers.",
+    "imageId": "entertainment-service",
+    "active": true,
+    "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?q=80&w=1080&auto=format&fit=crop"
+  },
+  {
+    "name": "Event Staff",
+    "slug": "event-staff",
+    "description": "Hire trained and verified professionals for your event.",
+    "imageId": "staff-service",
+    "active": true,
+    "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=1080&auto=format&fit=crop"
+  },
+  {
+    "name": "Grocery Supply",
+    "slug": "grocery",
+    "description": "Reliable supply of bulk groceries for your event needs.",
+    "imageId": "grocery-service",
+    "active": true,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?q=80&w=1080&auto=format&fit=crop"
+  },
+  {
+    "name": "Furniture Rental",
+    "slug": "furniture-rental",
+    "description": "Furnish your event space with our high-quality rentals.",
+    "imageId": "furniture-service",
+    "active": true,
+    "image": "https://images.unsplash.com/photo-1549488344-cbb6c34cf08b?q=80&w=1080&auto=format&fit=crop"
+  },
+  {
+    "name": "Rental Vehicle",
+    "slug": "rental-vehicle",
+    "description": "Reliable and clean vehicles for your event guests and logistics.",
+    "imageId": "car-rental",
+    "active": true,
+    "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?q=80&w=1080&auto=format&fit=crop"
+  },
+  {
+    "name": "Digital Photography",
+    "slug": "photography",
+    "description": "Immortalize your special moments with professional photography.",
+    "imageId": "photography-service",
+    "active": true,
+    "image": "https://images.unsplash.com/photo-1522204523234-8729aa6e3d5f?q=80&w=1080&auto=format&fit=crop"
+  },
+  {
+    "name": "Digital Invitations",
+    "slug": "invitations",
+    "description": "Elegant and modern e-invites for your guests, delivered instantly.",
+    "imageId": "invitations-service",
+    "active": true,
+    "image": "https://images.unsplash.com/photo-1553013983-15241ab69e57?q=80&w=1080&auto=format&fit=crop"
+  }
+]
