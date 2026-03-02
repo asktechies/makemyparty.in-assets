@@ -131,7 +131,7 @@
       "attributes": "{}",
       "unitType": "kg",
       "availability": "{\"status\":\"available\"}",
-      "basePrice": 650,
+      "basePrice": 550,
       "sku": "SKU-DAL -1771243735950",
       "optionsSchema": "{}",
       "minOrderQty": 1,
