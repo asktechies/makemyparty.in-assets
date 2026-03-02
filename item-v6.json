@@ -11,7 +11,7 @@
       "optionsSchema": "{}",
       "unitType": "box",
       "attributes": "{}",
-      "minOrderQty": 30,
+      "minOrderQty": 40,
       "basePrice": 80
     },
     {
