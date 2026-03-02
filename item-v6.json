@@ -32,7 +32,7 @@
   "rental-vehicle": [
     {
       "id": "pJsJVfcTM0t48plnQ95M",
-      "maxOrderQty": 100,
+      "maxOrderQty": 1,
       "name": "Sedan Car",
       "sku": "SKU-1770284393028",
       "description": "Rental + fuel charge (10km per liter)",
@@ -42,7 +42,7 @@
       "attributes": "{}",
       "optionsSchema": "{}",
       "minOrderQty": 0,
-      "basePrice": 1200
+      "basePrice": 1400
     }
   ],
   "entertainment": [
