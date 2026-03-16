@@ -151,7 +151,7 @@
       "image": "https://cdn.jsdelivr.net/gh/asktechies/makemyparty.in-assets/item-food-delivery-daal-makhani.webp",
       "maxOrderQty": 100,
       "subCategory": "Veg, Main Course",
-      "basePrice": 650,
+      "basePrice": 550,
       "optionsSchema": "{}",
       "unitType": "kg",
       "attributes": "{}"
