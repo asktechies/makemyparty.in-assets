@@ -45,7 +45,7 @@
     "slug": "furniture-rental",
     "active": true,
     "category": "Dynamic",
-    "image": "https://picsum.photos/seed/furniture-service/400/300",
+    "image": "https://cdn.jsdelivr.net/gh/asktechies/makemyparty.in-assets/service_furniture_rental.webp",
     "description": "Furnish your event space with our high-quality rentals."
   }
 ]
