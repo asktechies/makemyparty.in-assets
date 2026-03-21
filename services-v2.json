@@ -1,51 +1,51 @@
 [
   {
-    "image": "https://github.com/asktechies/makemyparty.in-assets/blob/main/service-snacks-box-v1.jpg",
     "slug": "snack-box-delivery",
-    "name": "Snack Box Delivery",
-    "category": "Food",
     "active": true,
-    "description": "Curated snack boxes for meetings, events, and quick bites."
+    "category": "Food",
+    "name": "Snack Box Delivery",
+    "description": "Curated snack boxes for meetings, events, and quick bites.",
+    "image": "https://github.com/asktechies/makemyparty.in-assets/blob/main/service-snacks-box-v1.jpg"
   },
   {
+    "name": "Rental Vehicle",
+    "images": [],
+    "category": "Rental Vehicle",
+    "active": true,
     "slug": "rental-vehicle",
     "image": "https://cdn.jsdelivr.net/gh/asktechies/makemyparty.in-assets/service-rental-vehchile.webp",
-    "category": "Rental Vehicle",
-    "name": "Rental Vehicle",
-    "active": true,
-    "images": [],
     "description": "Reliable and clean vehicles for your event guests and logistics, from sedans to vans."
   },
   {
     "description": "Keep your guests entertained with our top-notch performers.",
+    "image": "https://cdn.jsdelivr.net/gh/asktechies/makemyparty.in-assets/service_entertainment.webp",
+    "slug": "entertainment",
     "active": true,
     "category": "Dynamic",
-    "name": "Entertainment",
-    "image": "https://cdn.jsdelivr.net/gh/asktechies/makemyparty.in-assets/service_entertainment.webp",
-    "slug": "entertainment"
+    "name": "Entertainment"
   },
   {
     "name": "Food Delivery",
     "category": "Food",
     "slug": "food-delivery",
+    "active": true,
     "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1080&auto=format&fit=crop",
-    "description": "Delicious meals for your event, delivered hot and fresh.",
-    "active": true
+    "description": "Delicious meals for your event, delivered hot and fresh."
   },
   {
-    "image": "https://cdn.jsdelivr.net/gh/asktechies/makemyparty.in-assets/service_decoration.webp",
-    "slug": "decoration",
     "name": "Decoration",
-    "category": "Dynamic",
     "active": true,
+    "category": "Dynamic",
+    "slug": "decoration",
+    "image": "https://cdn.jsdelivr.net/gh/asktechies/makemyparty.in-assets/service_decoration.webp",
     "description": "Transform your venue with stunning decoration options."
   },
   {
-    "slug": "furniture-rental",
-    "image": "https://picsum.photos/seed/furniture-service/400/300",
-    "category": "Dynamic",
     "name": "Furniture Rental",
+    "slug": "furniture-rental",
     "active": true,
+    "category": "Dynamic",
+    "image": "https://picsum.photos/seed/furniture-service/400/300",
     "description": "Furnish your event space with our high-quality rentals."
   }
 ]
